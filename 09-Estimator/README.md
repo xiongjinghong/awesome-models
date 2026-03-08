@@ -1,7 +1,7 @@
 # 基于estimator实现wide&deep model
 
 ## requirement
-TensorFlow == 2.4
+TensorFlow == 2.4 \\
 python == 3.6
 
 ## data
